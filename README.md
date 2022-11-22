@@ -33,6 +33,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.teknohus.com"> <img align="left" src="https://user-images.githubusercontent.com/98559033/203414370-230163b1-5feb-42c3-bf23-271c37b2a4fd.jpeg" height="100" width="100" alt="Teknohus" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teknohus&show_icons=true&locale=en&layout=compact" alt="teknohus" /></p>
+<p style = "padding-bottom: 20px"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teknohus&show_icons=true&locale=en&layout=compact" alt="teknohus" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teknohus&show_icons=true&locale=en" alt="teknohus" /></p>
