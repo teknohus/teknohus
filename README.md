@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Hafiz</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranamuzamal&label=Profile%20views&color=0e75b6&style=flat" alt="ranamuzamal" /> </p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-zahid-usman-685722200/) 
 
 - 🔭 I’m currently working on **Laravel Ecommerece Website**
 
